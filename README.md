@@ -3,6 +3,8 @@
 This repository contains a basic Flask application that exposes a basic REST API for
 creating test suites, cases, and steps.
 
+Note that you need Pipenv installed in order to run this application.
+
 ## Running the app
 
 To deploy the server: `./runapp.sh`
